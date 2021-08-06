@@ -1,49 +1,52 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0643e551-0fef-4f57-9d3c-29d576f3e06c/deploy-status)](https://app.netlify.com/sites/gatsby-personal-starter-blog/deploys)
+# Nehalem Gatsby starter
 
-<img alt="screenshot" src="./screenshot.gif">
+<p align="center">
+    <img src="https://github.com/nehalist/gatsby-theme-nehalem/blob/master/theme/logo.png?raw=true">
+</p>
 
-This is the search-enabled version of Gatsby Personal Starter Blog!
+> Check the [Demo](https://nehalem.netlify.com)!
 
-## 🚀 Quick start
+Starter for [`@nehalist/gatsby-theme-nehalem`](https://github.com/nehalist/gatsby-theme-nehalem).
 
-1.  **Create a Gatsby site.**
+## Features
 
-    Use the Gatsby CLI to create a new site, specifying the blog starter.
+Out-of-the-box:
 
-    ```sh
-    # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/thomaswang/gatsby-personal-starter-blog
-    ```
+- Fully responsive
+- Highly optimized (Lighthouse score ~400)
+- SEO optimized (with open graph, Twitter Card, JSON-LD, RSS and sitemap)
+- Syntax highlighting
+- Search functionality
+- Multi navigations
+- Static pages
+- Fully typed with TypeScript
+- Tagging
+- Theming
+- Customizable
 
-1.  **Start developing.**
+See [here](https://nehalem.netlify.com/features) for details!
 
-    Navigate into your new site’s directory and start it up.
+## Getting Started
 
-    ```sh
-    cd my-blog-starter/
-    gatsby develop
-    ```
+Install this starter by running
 
-1.  **Open the source code and start editing!**
+```bash
+gatsby new your-site-name https://github.com/nehalist/gatsby-starter-nehalem
+```
 
-    Your site is now running at `http://localhost:8000`!
+`cd` into the `your-site-name` directory and run `gatsby develop` to start your site on `localhost:8000`.  
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+## Documentation
 
-    Open the `my-blog-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+The entire documentation can be found on the [Demo](https://nehalem.netlify.com). Alternatively check 
+the [GitHub repository](https://github.com/nehalist/gatsby-theme-nehalem).
 
-## 🎓 Learning Gatsby
+## Like the theme?
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
+Happy to hear that! Feel free to star it on [GitHub](https://github.com/nehalist/gatsby-theme-nehalem)!
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.org/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+## Author
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+Developed by [nehalist.io](https://nehalist.io).
 
-## 📔 Learning Netlify CMS with Gatsby
-
-Start from [this point](https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/#authenticating-with-github) in the Gatsby documentation to finish the set up for your personal Netlify CMS with authentication.
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thomaswangio/gatsby-personal-starter-blog)
+*Big thanks to my SO for the awesome logo!*

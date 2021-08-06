@@ -1,3 +1,5 @@
+.idea
+
 # Logs
 logs
 *.log
@@ -67,3 +69,5 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+.netlify/
