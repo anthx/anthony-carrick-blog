@@ -4,3 +4,26 @@ backend:
 
 media_folder: content/assets
 public_folder: ../assets
+
+collections:
+  - name: posts
+    label: Posts
+    folder: content/posts
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: created, label: Date, widget: date }
+      - { name: updated, label: Modified Date, widget: date }
+      - { name: title, label: Title }
+      - { name: excerpt, label: Excerpt }
+      - { name: body, label: Body, widget: markdown }
+  - name: pages
+    label: Pages
+    folder: content/pages
+    create: true
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: excerpt, label: Excerpt }
+      - { name: body, label: Body, widget: markdown }

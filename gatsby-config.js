@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Anthony Carrick Blogs`,
-    siteUrl: `https://nehalem.netlify.com`,
-    description: `A Gatsby starter for nehalem`,
+    title: `Anthony Carrick Blog and Projects`,
+    siteUrl: `https://condescending-bhabha-3da034.netlify.app`,
+    description: `Blogs and Project Sites`,
     topics: [],
     menu: [
       {
@@ -22,7 +22,7 @@ module.exports = {
     ],
     search: true,
     author: {
-      name: `nehalem`,
+      name: `Anthony Carrick`,
       description: `Hi. I'm Anthony Carrick &mdash; a software developer, amateur writer and hobbyist photographer.`,
       social: {
         facebook: ``,
