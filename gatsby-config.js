@@ -10,8 +10,8 @@ module.exports = {
         path: '/'
       },
       {
-        name: 'Example',
-        path: '/page'
+        name: "What I'm Doing These Days",
+        path: '/now'
       },
     ],
     footerMenu: [
