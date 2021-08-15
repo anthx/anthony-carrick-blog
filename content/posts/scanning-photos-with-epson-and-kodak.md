@@ -2,7 +2,7 @@
 title: "Scanning Photos with Epson and Kodak"
 path: "/scanning-photos-with-epson-and-kodak"
 tags: ["Photography"]
-featuredImage: "../assets/images/cover.jpg"
+featuredImage: "../assets/images/scanning-photos-with-epson-and-kodak.jpg"
 excerpt: A tale of photo scanning with kiosks and flatbed scanners to digitize old family photos.
 created: 2019-03-23
 updated: 2019-03-23

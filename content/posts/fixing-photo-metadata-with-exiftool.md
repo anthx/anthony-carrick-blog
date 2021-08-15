@@ -2,7 +2,7 @@
 title: "Fixing Photo Metadata with Exiftool"
 path: "/fixing-photos-metadata-with-exiftool"
 tags: ["Photography"]
-featuredImage: "../assets/images/cover.jpg"
+featuredImage: "../assets/images/fixing-photos-metadata-with-exiftool.png"
 excerpt: Let's fix metadata using Exiftool and code!
 created: 2019-03-18
 updated: 2019-03-18

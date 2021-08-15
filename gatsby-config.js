@@ -13,12 +13,24 @@ module.exports = {
         name: "What I'm Doing These Days",
         path: '/now'
       },
+      {
+        name: "Weekend Notes Articles",
+        path: '/weekend-notes'
+      },
+      {
+        name: "Tools I Use",
+        path: '/tools-i-use'
+      },
     ],
     footerMenu: [
       {
         name: 'Example',
         path: '/page'
       },
+      {
+        name: "Weekend Notes Articles",
+        path: '/weekend-notes'
+      }
     ],
     search: true,
     author: {
