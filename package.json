@@ -20,6 +20,7 @@
     "@nehalist/gatsby-theme-nehalem": "^1.0.3",
     "gatsby": "^2.13.55",
     "gatsby-plugin-netlify-cms": "^3.0.0",
+    "gatsby-plugin-netlify-headers": "^1.0.1",
     "netlify-cms": "^2.10.151",
     "netlify-cms-app": "^2.15.31",
     "react": "^16.9.0",
