@@ -1,6 +1,7 @@
 ---
+path: /tools-i-use
+date: 2021-08-17T08:28:23.646Z
 title: Tools I Use
-path: "/tools-i-use"
 excerpt: Some of my favourite software development tools.
 ---
 
@@ -20,7 +21,7 @@ Other Tools
 
 *   [Git Bash for Mac](https://github.com/fabriziocucci/git-bash-for-mac) – this is a Terminal customisation and theme that tries (and succeeds) to replicate the much of the extra functionality that Git Bash provides. I missed Git Bash’s display of the branch, tab autocompletion and remote/refs names display. Now I have it on Mac too!
     
-    [![Git Bash For Mac screenshot](http://www.acarrick.com/projects/wp-content/uploads/2017/12/Screen-Shot-2018-03-29-at-4.46.58-pm-300x193.png)](http://www.acarrick.com/projects/wp-content/uploads/2017/12/Screen-Shot-2018-03-29-at-4.46.58-pm.png)
+    [![Git Bash For Mac screenshot](https://www.acarrick.com/projects/wp-content/uploads/2017/12/Screen-Shot-2018-03-29-at-4.46.58-pm-300x193.png)](http://www.acarrick.com/projects/wp-content/uploads/2017/12/Screen-Shot-2018-03-29-at-4.46.58-pm.png)
     
     Now by git repos display more prominently!
     
