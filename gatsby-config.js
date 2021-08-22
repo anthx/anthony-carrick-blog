@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Anthony Carrick Blog and Projects`,
+    title: `Anthony Carrick | Software Developer | Writer`,
     siteUrl: `https://condescending-bhabha-3da034.netlify.app`,
-    description: `Blogs and Project Sites`,
+    description: `A site of personal and professional IT, photography and technology.`,
     topics: [],
     menu: [
       {
@@ -24,10 +24,6 @@ module.exports = {
     ],
     footerMenu: [
       {
-        name: 'Example',
-        path: '/page'
-      },
-      {
         name: "Weekend Notes Articles",
         path: '/weekend-notes'
       }
@@ -39,7 +35,7 @@ module.exports = {
       social: {
         facebook: ``,
         twitter: `https://twitter.com/anthc`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        linkedin: ``,
         instagram: ``,
         youtube: ``,
         github: `https://github.com/anthx`,
@@ -47,6 +43,7 @@ module.exports = {
       }
     }
   },
+  flags: { PRESERVE_WEBPACK_CACHE: true },
   plugins: [
     `gatsby-plugin-netlify-cms`,
     {

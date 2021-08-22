@@ -31,11 +31,11 @@ TL;DR: Scan negatives if you have them.
 
 I didn’t notice much difference in sharpness or detail though.
 
-![A theme park ride. There is much more detail in the shadows in the scanned image.](https://www.acarrick.com/blog/wp-content/uploads/2019/02/MW-Negative-Kiosk-Post-Edit-1024x416.jpg)
+![A theme park ride. There is much more detail in the shadows in the scanned image.](../assets/images/MW-Negative-Kiosk-Post-Edit-1024x416.jpg)
 
 A theme park ride. There is much more detail in the shadows in the scanned negative. (Left image)
 
-![A theme park ride. There is much more detail in the shadows in the scanned image.](https://www.acarrick.com/blog/wp-content/uploads/2019/02/MW2-Negative-Kiosk-Post-Edit-1024x407.jpg)
+![A theme park ride. There is much more detail in the shadows in the scanned image.](../assets/images/MW2-Negative-Kiosk-Post-Edit-1024x407.jpg)
 
 A theme park ride. There is much more detail in the shadows in the scanned negative (left).
 
@@ -65,11 +65,11 @@ While it’s scanning, I just do something else on my computer or do something i
 
 **Quality**: They are about the same quality. I couldn’t get any better image data (light/dark dynamic range) out of the Epson. Images from the Epson scanner seemed slightly sharper, but a slight sharpness increase in Lightroom applied to the ones from the Rapid Scan and I couldn’t notice any difference.
 
-![A theme park show. After adjusting the sharpness / contrast, the quality is about the same.](https://www.acarrick.com/blog/wp-content/uploads/2019/02/MW1-Flatbed-Kiosk-Post-Edit-1024x486.jpg)
+![A theme park show. After adjusting the sharpness / contrast, the quality is about the same.](../assets/images/MW1-Flatbed-Kiosk-Post-Edit-1024x486.jpg)
 
 A theme park show. After adjusting the sharpness / contrast, the quality is about the same. Left is from the Rapid Scan, right is from the flatbed.
 
-![The comparison of the Kodak Rapid Scan and Epson Perfection scans after editing. On both, I can't bring out any more detail in the shadows.](https://www.acarrick.com/blog/wp-content/uploads/2019/02/MW-Flatbed-Kiosk-Post-Edit-1024x413.jpg)
+![The comparison of the Kodak Rapid Scan and Epson Perfection scans after editing. On both, I can't bring out any more detail in the shadows.](../assets/images/MW-Flatbed-Kiosk-Post-Edit-1024x413.jpg)
 
 Epson Scan on the left, Rapid Scan on the right. I couldn’t bring out the shadow detail any more for either of them, compared to the negative above.
 

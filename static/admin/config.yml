@@ -2,7 +2,7 @@ backend:
   name: github
   repo: anthx/anthony-carrick-blog
 
-media_folder: content/assets
+media_folder: content/assets/images
 public_folder: ../assets
 
 collections:

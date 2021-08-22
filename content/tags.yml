@@ -2,3 +2,7 @@
   color: "#007acc"
   icon: ./assets/images/logo.png
   featured: true
+- name: Technology
+  color: "#007acc"
+  icon: ./assets/images/logo.png
+  featured: true
