@@ -36,6 +36,12 @@ gatsby new your-site-name https://github.com/nehalist/gatsby-starter-nehalem
 
 `cd` into the `your-site-name` directory and run `gatsby develop` to start your site on `localhost:8000`.  
 
+## Netlify CMS Locally
+
+``
+npx netlify-cms-proxy-server
+``
+
 ## Documentation
 
 The entire documentation can be found on the [Demo](https://nehalem.netlify.com). Alternatively check 
