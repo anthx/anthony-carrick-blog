@@ -2,10 +2,11 @@
 path: weekend-notes-stats-tool
 created: 2021-08-28T02:05:01.082Z
 updated: 2021-08-28T02:05:01.092Z
+tags: ["Project", "Weekend-Notes"]
 title: Weekend Notes Stats Tool
 excerpt: I’ve made a tool to analyse my article statistics on Weekend Notes.
   Here’s how it works and a bit about the issues I had while building it.
-featuredImage: /assets/images/Text-Blog-Featured-Image.png
+featuredImage: /assets/images/weekend-notes-stats-tool.png
 ---
 I’ve made a tool to analyse my article statistics on Weekend Notes. Though it can be used by other writers since I’ve deployed it as a public site. It’s running on AWS Lambda with the front end on my own site just because it’s easier - though the front end could be deployed to S3 and hosted as a static site since it just posts form data to my Lambda function. Here’s how it works and a bit about the issues I had while building it.
 
@@ -42,7 +43,7 @@ Finally, due to PC issues I changed to use my Windows 10 desktop rather than my 
 
 ## Building the Front End
 
-When I started building the front end, I pretty much took my previous front end HTML form from an earlier project like this and modified the form to POST instead of GET. But of course I quickly remembered that a normal form can’t simply POST plain data as the request body like you’d do in a React project or REST API. A normal form needs either url encoded form fields or muli-part form data. Or you use JavaScript to submit the form and handle the response. I first tried to implement that in JavaScript with our friends Stack Overflow and MDN to give me enough idea to get going:
+When I started building the front end, I pretty much took my previous front end HTML form from an earlier project like this and modified the form to POST instead of GET. But of course I quickly remembered that a normal form can’t simply POST plain data as the request body like you’d do in a React project or REST API. A normal form needs either url encoded form fields or multi-part form data. Or you use JavaScript to submit the form and handle the response. I first tried to implement that in JavaScript with our friends Stack Overflow and MDN to give me enough idea to get going:
 
 * https://stackoverflow.com/questions/6665510/sending-a-raw-data-post-request-with-an-html-form
 * https://stackoverflow.com/questions/6396101/pure-javascript-send-post-data-without-a-form 
@@ -52,9 +53,9 @@ When I started building the front end, I pretty much took my previous front end 
 
 But I soon realised it was going to be easier just to change my back-end to handle multipart/form-data and let the browser submit it as normal. That way, the browser will also handle the returned page as the standard response.(Like when you submit any other form.)
 
-(It’s hard to build plain HTTP POSTs by hand, much easier to just use Postman or Insomnia): Mozilla Developer Network POST - HTTP 
+(It’s hard to build plain HTTP POSTs by hand, much easier to just use Postman or Insomnia): [Mozilla Developer Network POST - HTTP ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
 
-Luckily Flask can do both. Quickstart — Flask Documentation (1.1.x) 
+Luckily Flask can do both. [Quickstart — Flask Documentation (1.1.x) ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
 
 At the same time, I discovered that pasting a large amount of data into a textArea causes Chrome to lockup. Firefox wasn’t locking up so I realised it was a browser issue, which meant it might be possible to code around it. I found:
 
