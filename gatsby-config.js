@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Anthony Carrick | Software Developer | Writer`,
-    siteUrl: `https://condescending-bhabha-3da034.netlify.app`,
-    description: `A site of personal and professional IT, photography and technology.`,
-    topics: [],
+    title: `Anthony Carrick | Software Developer | Writer | Hobbyist Photographer`,
+    siteUrl: `https://anthony-carrick.com`,
+    description: `A blog-site of %TOPICS%`,
+    topics: ["photography-IT", "technology", "professional IT", "personal IT", "thoughts"],
     menu: [
       {
         name: 'Home',
