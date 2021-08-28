@@ -6,7 +6,7 @@ tags: ["Project", "Weekend-Notes"]
 title: Weekend Notes Stats Tool
 excerpt: I’ve made a tool to analyse my article statistics on Weekend Notes.
   Here’s how it works and a bit about the issues I had while building it.
-featuredImage: /assets/images/weekend-notes-stats-tool.png
+featuredImage: ../assets/images/weekend-notes-stats-tool.png
 ---
 I’ve made a tool to analyse my article statistics on Weekend Notes. Though it can be used by other writers since I’ve deployed it as a public site. It’s running on AWS Lambda with the front end on my own site just because it’s easier - though the front end could be deployed to S3 and hosted as a static site since it just posts form data to my Lambda function. Here’s how it works and a bit about the issues I had while building it.
 
