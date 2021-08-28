@@ -5,7 +5,7 @@ backend:
 local_backend: true
 
 media_folder: content/assets/images
-public_folder: ../assets
+public_folder: ../assets/images
 
 collections:
   - name: posts
@@ -16,6 +16,11 @@ collections:
       - { name: path, label: Path }
       - { name: created, label: Date, widget: date }
       - { name: updated, label: Modified Date, widget: date }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        allow_add: false
+        default: ["news"]
       - { name: title, label: Title }
       - { name: excerpt, label: Excerpt }
       - { name: body, label: Body, widget: markdown }
