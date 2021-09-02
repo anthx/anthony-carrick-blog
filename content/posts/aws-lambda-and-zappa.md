@@ -1,5 +1,5 @@
 ---
-path: aws-lambda-zappa
+path: /aws-lambda-zappa
 tags: ["aws"]
 created: 2021-08-28T00:45:30.240Z
 updated: 2021-08-28T00:45:30.256Z

@@ -1,5 +1,5 @@
 ---
-path: weekend-notes-stats-tool
+path: /weekend-notes-stats-tool
 created: 2021-08-28T02:05:01.082Z
 updated: 2021-08-28T02:05:01.092Z
 tags: ["Project", "Weekend-Notes"]
