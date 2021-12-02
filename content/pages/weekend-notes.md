@@ -42,6 +42,8 @@ I like to write about parks and nature reserves, and restaurant reviews if the p
  * [Party Entertainment Ideas](https://www.weekendnotes.com/party-entertainment-ideas/)
 * [Relaxing Spots In Brisbane City](https://www.weekendnotes.com/relaxing-spots-in-brisbane-city/)
 * [Cheap and Fast Asian Dining in Brisbane City](https://www.weekendnotes.com/cheap-and-fast-asian-dining-brisbane-city/)
+* [Top Places to Study and Relax in Brisbane](https://www.weekendnotes.com/top-places-to-study-relax-brisbane/)
+* [Four Family Parks in Brisbane](http://live.weekendnotes.com/preview-review/196407/?ap=3PxAAmu4yB&wuid=598410)
 
 ### Trips
 * [Day Trip to Boonah and Spicers Gap](https://www.weekendnotes.com/day-trip-to-boonah-and-spicers-gap/)
