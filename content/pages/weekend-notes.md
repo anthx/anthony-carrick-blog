@@ -24,7 +24,6 @@ I like to write about parks and nature reserves, and restaurant reviews if the p
  * [Hop Temple](https://www.weekendnotes.com/hop-temple-ballarat/)
  * [Cafe Issus](https://www.weekendnotes.com/cafe-issus-melbourne/)
  * [Your Thai Rice and Noodle Restaurant](https://www.weekendnotes.com/your-thai-rice-noodle-restaurant/)
- * [Vietnamese Baguette - The Myer Centre Brisbane](https://www.weekendnotes.com/vietnamese-baguette-myer-centre-brisbane/)
  * [Thai Nakonlanna Restaurant](https://www.weekendnotes.com/thai-nakonlanna-restaurant/)
  * [Thai at Home Restaurant](https://www.weekendnotes.com/thai-at-home-restaurant/)
  * [Pho Dau, Myer Centre](https://www.weekendnotes.com/pho-dau-the-myer-centre-brisbane/)
@@ -35,17 +34,19 @@ I like to write about parks and nature reserves, and restaurant reviews if the p
  ### Parks and Nature
  * [Mowbray Park, East Brisbane](https://www.weekendnotes.com/mowbray-park/)
  * [Calembeen Park, Creswick](https://www.weekendnotes.com/calembeen-park-creswick/)
-* [Day Trip to Boonah and Spicers Gap](https://www.weekendnotes.com/day-trip-to-boonah-and-spicers-gap/)
+ * [Day Trip to Boonah and Spicers Gap](https://www.weekendnotes.com/day-trip-to-boonah-and-spicers-gap/)
 
  ### Lists and Ideas
+ * [The Cultural Delights of The Myer Centre Level A](https://www.weekendnotes.com/cultural-delights-myer-centre-level-a-brisbane/)
  * [Best Matcha Places in Brisbane](https://www.weekendnotes.com/best-green-tea-matcha-places-brisbane/)
  * [Party Entertainment Ideas](https://www.weekendnotes.com/party-entertainment-ideas/)
-* [Relaxing Spots In Brisbane City](https://www.weekendnotes.com/relaxing-spots-in-brisbane-city/)
-* [Cheap and Fast Asian Dining in Brisbane City](https://www.weekendnotes.com/cheap-and-fast-asian-dining-brisbane-city/)
-* [Top Places to Study and Relax in Brisbane](https://www.weekendnotes.com/top-places-to-study-relax-brisbane/)
-* [Four Family Parks in Brisbane](http://live.weekendnotes.com/preview-review/196407/?ap=3PxAAmu4yB&wuid=598410)
+ * [Relaxing Spots In Brisbane City](https://www.weekendnotes.com/relaxing-spots-in-brisbane-city/)
+ * [Cheap and Fast Asian Dining in Brisbane City](https://www.weekendnotes.com/cheap-and-fast-asian-dining-brisbane-city/)
+ * [Top Places to Study and Relax in Brisbane](https://www.weekendnotes.com/top-places-to-study-relax-brisbane/)
+ * [Four Family Parks in Brisbane](https://www.weekendnotes.com/four-fun-family-parks-playgrounds-brisbane/)
+ * [Top Places for a Walk and Coffee in Brisbane](https://www.weekendnotes.com/top-places-for-a-walk-with-a-coffee-brisbane/)
 
 ### Trips
-* [Day Trip to Boonah and Spicers Gap](https://www.weekendnotes.com/day-trip-to-boonah-and-spicers-gap/)
-* [Lakes and Sinkholes of Mt Gambier](https://www.weekendnotes.com/lakes-and-sinkholes-mount-gambier/)
-* [Gum San Chinese Heritage Centre in Ararat, Victoria](https://www.weekendnotes.com/gum-san-chinese-heritage-centre-ararat/)
+ * [Day Trip to Boonah and Spicers Gap](https://www.weekendnotes.com/day-trip-to-boonah-and-spicers-gap/)
+ * [Lakes and Sinkholes of Mt Gambier](https://www.weekendnotes.com/lakes-and-sinkholes-mount-gambier/)
+ * [Gum San Chinese Heritage Centre in Ararat, Victoria](https://www.weekendnotes.com/gum-san-chinese-heritage-centre-ararat/)
