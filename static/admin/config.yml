@@ -4,6 +4,8 @@ backend:
 
 local_backend: true
 
+publish_mode: editorial_workflow
+
 media_folder: content/assets/images
 public_folder: ../assets/images
 
